@@ -1,16 +1,19 @@
-### Hi there 👋
+# hi
 
-<!--
-**dgoorskey/dgoorskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't know how you ended up here, but I guess you can look through my stuff if
+you want.
 
-Here are some ideas to get you started:
+## whoami
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- third year undergrad at OSU
+- CS major
+- tea drinker
+- kitty enjoyer
+- the web shouldn't be this bloated
+- privacy is a right
+
+## contact
+
+- email 1: `goorskey.1@osu.edu`
+- email 2: `dersu.goorskey@gmail.com`
+- discord: `dawnvoid`
