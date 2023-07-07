@@ -5,6 +5,7 @@ you want.
 
 ## whoami
 
+- [dgoorskey.github.io](https://dgoorskey.github.io/)
 - third year undergrad at OSU
 - CS major
 - tea drinker
